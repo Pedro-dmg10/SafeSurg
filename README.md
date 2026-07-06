@@ -11,6 +11,10 @@ The framework decouples surgical workflow analysis into two stages:
 
 ## Installation
 
+To replicate this environment and run the extraction pipeline, execute the following command from the root directory to fetch the missing FlowFormer++ dependencies:
+
+```bash
+git clone [https://github.com/XiaoyuShi97/FlowFormerPlusPlus.git](https://github.com/XiaoyuShi97/FlowFormerPlusPlus.git) src/extraction/FlowFormer
 ### Prerequisites
 Ensure you have a CUDA-capable GPU environment configured. Clone the repository and install the dependencies:
 
