@@ -1,1 +1,15 @@
+# Core Deep Learning & Computer Vision
+torch
+torchvision
+opencv-python
 
+# Object Detection & Segmentation (YOLOv8 & SAM 2.1)
+ultralytics
+
+# Data Processing & Advanced Statistics
+numpy
+pandas
+scipy
+
+# Utilities
+tqdm
